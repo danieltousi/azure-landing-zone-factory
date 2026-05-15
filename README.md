@@ -138,8 +138,7 @@ terraform apply lz.tfplan
 ## Author
 
 **Daniel Tousi**
-Senior Systems Engineer | Cloud Solution Architect
-Azure | Microsoft 365 | Hybrid Infrastructure
+Principal Engineer | Cloud Solution Architect | Azure | Microsoft 365 | Hybrid Infrastructure
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-danieltousi-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/daniel-tousi-19293563/)
 [![GitHub](https://img.shields.io/badge/GitHub-danieltousi-181717?style=flat&logo=github)](https://github.com/danieltousi)
